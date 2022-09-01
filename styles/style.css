@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+}
+body{
+    margin: 0px;
+}
+#heading_tag{
+    color: #FF5E19;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+#heading_section{
+    background-color: black;
+    height: 500px;
+}
+
+#imga{
+    text-align: center;
+}
+
+#calculate-btn-div{
+    text-align: center;
+    padding: 20px;
+}
+
+.section_class{
+    height: 350px;
+}
